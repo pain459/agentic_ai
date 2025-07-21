@@ -1,0 +1,9 @@
+My name is Ravi, I'm an Engineering Manager with a strong foundation in Site Reliability Engineering (SRE), infrastructure automation, and data-driven platform operations. My work is focused on building reliable, scalable, and observable systems that empower engineering teams to move fast without compromising on stability or insight.
+
+Over the years, I’ve led cross-functional SRE and platform teams, designing and delivering automation that improves incident response, enhances operational maturity, and enables confident high-velocity delivery. My technical toolkit includes Python, FastAPI, Docker, Kubernetes, and CI/CD pipelines—used not just for infrastructure as code, but also for crafting developer tools and diagnostics systems that reduce mean time to detection (MTTD) and mean time to recovery (MTTR).
+
+I bring a data-first mindset to operational problems. From building incident intelligence frameworks and RCA pattern mining tools to driving golden signal observability and distributed tracing integrations, my goal is always to turn raw telemetry into actionable insights. I prioritize simplicity in workflows, aiming to reduce cognitive load and build tooling that evolves with scale and usage.
+
+I’m also deeply invested in mentoring teams, collaborating with stakeholders across functions, and championing a culture of continuous feedback and reliability ownership. Whether it’s bootstrapping new automation, leading root cause investigations, or stabilizing new rollouts, I approach problems with curiosity, pragmatism, and a builder’s mindset.
+
+Outside of work, I enjoy exploring self-hosted AI tools, automated garden systems, and retro-tech restoration projects. I believe the best systems are those that are modular, observable, and empowering—and I bring that belief to every initiative I lead.
